@@ -41,11 +41,9 @@ a:hover {
 }
 
 .guitar-link {
-  position: relative;
-  right: 8px;
-  top: 6px;
+  display: block;
   color: rgba(255, 255, 255, .5);
-  padding: 8px;
+  padding: 0.5rem 1rem;
   font-size: 20px;
 }
 
