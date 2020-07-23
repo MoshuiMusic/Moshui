@@ -23,6 +23,7 @@ a:hover {
 
 /* navigation bar */
 #navBar {
+  padding-left: 0;
   margin-bottom: 6rem;
   border-bottom-style: solid;
   border-width: 1px;
