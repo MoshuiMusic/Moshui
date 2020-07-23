@@ -40,17 +40,6 @@ a:hover {
   padding-left: 24px;
 }
 
-.guitar-link {
-  display: block;
-  color: rgba(255, 255, 255, .5);
-  padding: 0.5rem 1rem;
-  font-size: 20px;
-}
-
-.guitar-link:hover {
-  color: rgba(255, 255, 255, .8);
-}
-
 /* title */
 .titlepage {
   margin-top: 10%;
