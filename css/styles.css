@@ -255,3 +255,8 @@ a:hover {
     padding-top: 2%;
   }
 }
+
+@media (min-width: 1500px)
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+}
